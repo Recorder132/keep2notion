@@ -7,12 +7,12 @@
             "birthday": 1047600000000,
             "_id": "613bd1ad95217420e5a59f9e"
         },
-        "id": "613bd1ad95217420e5a59f9e_9223370292232930807_tr",
+        "id": "613bd1ad95217420e5a59f9e_9223370292145292807_tr",
         "feel": 0,
-        "calorie": 236,
-        "duration": 1751,
-        "startTime": 1744620093000,
-        "endTime": 1744621845000,
+        "calorie": 278,
+        "duration": 1982,
+        "startTime": 1744707499000,
+        "endTime": 1744709483000,
         "type": "training",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -36,9 +36,9 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "H4sIAAAAAAAA/53ZzYpUMRCG4Xvp9SzyU1VJ3HkBwuzFRQstNDginh4QxHs3jdu8X+AsmxmK76Ry8iQ5n/9cvt6uj+P19uvT/cf743b5kIu/XO7H6/X9mL++Xb8ft5fL4/52+/j7fsw/e/r/83hc337O380sSsqpp78vi2o1q2o1rauVeqaaQbYK2Uw+aUA2p2yhqjXIFjRuQ1UbkK1DNmuypwnCDQj3/HdRrqzTlUzp5LPmuk5XCrVVl3NIZ9RXPXYB6fzUpMsd0jUaO5PlBqTrNO1kuZLX6WqisSuyXFmnqxnSFfmKFYN0FdKVKss5pDMaO12uQbqgsZMTpXRI12jeyXd2LsTrcoPmnexsBSYMmZDvbAUnjJww2YoKUBhCIeddBSkMpeiyHFBhRMWmFWCFoRUynYEVRlZsyoEVTla4bIWBFY5W6HJghZMVm4cFK5yscEmPgRVOVrjePYEVTlboFcXBiiArtGQOVgRZobc8DlYEWeHyJXOwIsgKPe8crAiyYjN2YEWQFXqBCrAiyAq9aw+wop07UgRY0fBMIadxgBWNrCh67MCKRlYUOY0DrGhkRZHOBljRyIoix66BFY2syHLsGljRyYpNObCikxVZbsgaWNHJiixXlAZWdLIiyYnSwIpOViQ5URpY0cmKJFvRwYpBVuiH7WDFICuSXI07WDHIik06sGKQFZtyYMUgKzYPC1YMsiLJt2KAFYOs0BNlrK2Y0+fU2I21FTmRFVmO3VhbkRNZoReosbZijvipE+NYWzHnw6n93VhbMRt47qYirbGYCxFtA/RFSlprkTNpsbnnSWsu5jJ+6irleee2rkde6J3AbCPkIzD0Nup5obuuR2Ls6q3JmO8AbVX08+a1GbmQGZt77bxGIxdCQ+8bZx8hH6mh78pmHyHfueuo2UfIh/dRej7nNRyzjefe37KWY+5gz91xF6CjEh36LP/8RLGuh3dS0o7ZR8iHBw09XwroUfGkoedLAT4qHjU2/QA/Kp41dL0KflTyQx/UZh/X+Qz90OtBBT8M/dD9reCH4XeMTT7ww9APPZ8r+GHoxyYf+GHohx4/Az+c/Mj6s5KBH44fMzb5wA8nP3b5wA8nP4r23MAPJz+K9sPADyc/NvUc/HDyQ1+NzD6u8wX5sfuODn4E+aE/fs0+Qj70Y1MP/Ag8fWg/HPwI/AK+6S/4EeTHZn8a4Eec9CPAj3bSjwA/Gvqh+xvgR0M/NvXAj4Z+6PcjwI9Gfuz6AX409EOvBw386PgtXL8fDfzoTz++/AM89fjLqSMAAA==",
-            "averageHeartRate": 131.32173,
-            "maxHeartRate": 157,
+            "heartRates": "H4sIAAAAAAAA/53ay4ocRxCF4Xfp9Swy8hqhnR/AoL3xYgxtGJCEcY9AIPzursFLx38Cetmb4FTl5cuM6t9+3v64v74/Pt///vXt2/f3++2Tt5fb2+Pz6/fH9ePP1y+P+8vt/e3r/Zcfb4/bJ1vtv5+P99evf12/z5ynnWWz/fPy/2LnqGKj5cV6pMV2qGITkk1INlWxDclWnkwXO5DsQLKuigUkc0g25Gi2PNpuEG3Laj3Ptg2yuaw2INvIs1mzYuLm5WYezoZeBxvSbUg39EA4pDuUTj9sQLqAdF0urW55utMgXZfzpPc83en07pYsNyHdgHRTP+yCdAvSTTlR+oF0m0ZWTpTukM7p3cmhuHbgvFw8lW4ADw48FNN4ABAOQBTzbgARDkRYlxvUACQckLAulRjAhAMTVTmAwgEKMzmNJ0gRIEWRbgIVAVRYlxNlghVBVpjcUSZYEWRFl6tighVBVujdeIIVQVYU6cCKeM6KlVtxZX7K2ZVb4Q2tkKenlVvhjawYcgtYuRXe0Ap5Hl65Fd7QCrnfrdwKb2iFXGQ7t8IbWqHL5Va4kRV6N965FW5kRZEut+KCjNLJodi5FW5khemHza1wQyvkItu5FW5ohdwCTm6Fd7KiKJdb4f05K05uhXeyoksrTm6Fd7RCjuzJrfCO9wo5705uhXe0Qg9FbsV1HqN08hTgYMVAK2Q6BysGWiFXhYMVA63Q6cCKgVZIth2sGGTFlBPFwYpBVmjJAqwYZEVRDqyYeK/Q5cCKSVZMOY0DrJhkxZIjG2DFJCum3O8CrJhkhb4eB1gxyQr97q4dII+3CIul+zINtFikRZUPuFjExdI9sgZeLPJiyQOtNQBjERhLLg1rIMYiMXaRD8hYRMbW+QzM2GTG1vPFAI1NaOjF+3F6zethN0oeL66bKuRDNnRn0MCNjW7o9WEAxyY4tq7XQY5Ncuh2+XUYzPMdoqOYzx3sOGiHHt8OeBzCQzt+3UMgH+pR5AM+DvJR1AM/Dvmhb+DXGS7P5+SHPlbZAD+c/NhFPfDDyQ/9Lenjq0hej/wo1scAP5z8qN4f+OF449D7/QA/HNtTev5N8CPwW4beTyf4EeSHvux+9BfyeuSH7hRcyxHykR+6NXod1CEf+VE9L/gR2KTS83mBH4FdquJ7d+5HNPKjOJ+u3I9o6Id+fyv3Ixr5UZyHVu5HNPKjOE+u3I9o5Edx3l25H9Hw/qHXx879CCM/ii+vO/cjjPzQV9WLF8hHfhRe7tyPMPKj8HznfoTh/UOfX3buRxj5oTsHtnM/wsiP4nlP7kd08mPq+XxyP6KTH8X57+R+RCc/ivV7cj+ikx/F/nJyP6KTH0uvt5P7ER0bV/r9ee5HdOxcFfXAj4Gtq6Ie+DHQDz2+Dn4MvH/o8XXwY+D9Q68PBz8G3j+KP9qAH+PJ/lWAHxPvH3p8A/yY2L8q6oEfk/woxiPAj4l+FP9UAj/mhx+//wsAmJWuoCgAAA==",
+            "averageHeartRate": 134.60306,
+            "maxHeartRate": 174,
             "wearableDevices": [
                 {
                     "macAddress": "98:30:C8:07:48:F0",
